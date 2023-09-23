@@ -1,7 +1,0 @@
-
-import sys, os
-
-import main
-
-main.main()
-
